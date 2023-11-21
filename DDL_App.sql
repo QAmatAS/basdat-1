@@ -36,7 +36,7 @@ create table uji_klinis
 
 create table bahan_baku_masuk
 (
-    id_transaction	VARCHAR(8),
+    id_transaksi	VARCHAR(8),
 	material		VARCHAR(255),
     material_per_kg	FLOAT,
     acquired_date	DATE,
